@@ -1,12 +1,15 @@
+import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+
+
 
 function App() {
   return (
 
-    <div className="App">
-      <h1>Advance React</h1>
-    </div>
+     <h1 className="text-blue-300 text-center mt-2">
+      Advance React
+      
+    </h1>
   );
 }
 
